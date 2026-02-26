@@ -1,4 +1,4 @@
-# Technical Deep Dive 04 – Tokenisation & Data Minimisation
+# Technical Deep Dive 08 – Tokenisation & Data Minimisation
 
 This document explores how identity tracking and behavioural logging
 can be implemented responsibly in phishing simulation environments.
